@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597090314977",
+    "project_id": "bely2-ff44c",
+    "storage_bucket": "bely2-ff44c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597090314977:android:d7f3288e8cf1ea0115a5a0",
+        "android_client_info": {
+          "package_name": "com.MycoloringBetoBely.BelyyBetoColorear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597090314977-s2kaeff59bapg0ojmjll72eag58vnr0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCujOYoN6X9a4ieWp4fFsBpTmZwcNqNodY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597090314977-s2kaeff59bapg0ojmjll72eag58vnr0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
