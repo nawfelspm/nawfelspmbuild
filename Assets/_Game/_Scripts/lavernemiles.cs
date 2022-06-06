@@ -46,10 +46,11 @@ public class lavernemiles : MonoBehaviour, IUnityAdsInitializationListener, IUni
     public static bool isApplovin = false;
     public static bool isUnityads = false;
     public static bool isadmob = false;
-    string applovinads = "7bad8fc32d2f8101";
+    string applovinads = "3eeaf25bf7da0e25";
     string fbnetwordinter = "549505783488066_549506580154653";
     public static string firebaselink = "https:";
     public static string Homenamescene = "MainScene";
+    string gameId = "4785061";
 
 
     void CheckAds()
@@ -125,7 +126,7 @@ public class lavernemiles : MonoBehaviour, IUnityAdsInitializationListener, IUni
         LoadApplovin();
         InitializeAdsUnity();
         LoadAdUnity();
-        LoadInterstitialfb();
+        //LoadInterstitialfb();
 
 
     }
@@ -390,7 +391,6 @@ public class lavernemiles : MonoBehaviour, IUnityAdsInitializationListener, IUni
 
 
     
-    string gameId = "4767597";
     string _adUnitId = "Interstitial_Android";
     public void InitializeAdsUnity()
     {
