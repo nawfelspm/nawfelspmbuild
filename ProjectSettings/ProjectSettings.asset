@@ -244,8 +244,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 3
   AndroidSplashScreenScale: 2
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{inproject}: user.keystore'
-  AndroidKeyaliasName: ffsdqfsd
+  AndroidKeystoreName: C:/Users/medfa/Documents/1x/KEY-OUT/lklojjjjuu.keystore
+  AndroidKeyaliasName: lklojjjjuu
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
