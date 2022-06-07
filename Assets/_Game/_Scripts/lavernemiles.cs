@@ -48,22 +48,14 @@ public class lavernemiles : MonoBehaviour, IUnityAdsInitializationListener, IUni
     public static bool isadmob = false;
     string applovinads = "3eeaf25bf7da0e25";
     string fbnetwordinter = "549505783488066_549506580154653";
-    public static string firebaselink = "https:";
+    public static string firebaselink = "https://peppa-15d90-default-rtdb.firebaseio.com";
     public static string Homenamescene = "MainScene";
     string gameId = "4785061";
 
 
     void CheckAds()
     {
-        if (PlayerPrefs.GetString("karenhoyt").Length == 0)
-        {
-            bufordbrewer karenhoyt = new bufordbrewer();
-            string luellaatwood = karenhoyt.kimpeacock();
-            PlayerPrefs.SetString("karenhoyt", luellaatwood);
-            trumansamuels gracielaball = new trumansamuels();
-            string bettehuber = gracielaball.daynabryant();
-            PlayerPrefs.SetString("gracielaball", bettehuber);
-        }
+  
         UnityEngine.Debug.Log("XReceived CheckAdss ");
 
         FirebaseDatabase.GetInstance(firebaselink)
