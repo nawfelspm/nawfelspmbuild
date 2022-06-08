@@ -203,7 +203,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 231329454}
   m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 369c521577ea43a98853e0b9b8d3d5b4, type: 3}
+  m_Script: {fileID: 11500000, guid: d952f05d3429412186da42446c1855ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   bertiedelarosa: ColoringList
@@ -367,7 +367,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 72a801274eec01849a8a79e137bd042a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de1f2166991d4897b88e99a870d5ebfe, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -632,7 +632,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 72a801274eec01849a8a79e137bd042a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de1f2166991d4897b88e99a870d5ebfe, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -765,7 +765,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 72a801274eec01849a8a79e137bd042a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de1f2166991d4897b88e99a870d5ebfe, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -840,7 +840,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5eafac1be405ba9479399ade951ad2e6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1760bbca2d22411c89d7019f75449551, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1105,7 +1105,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 72a801274eec01849a8a79e137bd042a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de1f2166991d4897b88e99a870d5ebfe, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1322,7 +1322,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a1a6dc684a9c48c1b93810d4e6c32826, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 93f9159cf5f94fe7857035db0b465938, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1397,7 +1397,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: cd86fe31b49d43d8a02123b6deb19409, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8014486a27aa485498a58e609f8b7b7e, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1736,7 +1736,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ef6fd15ef11f437bbb430e5c7f652654, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 369b5a443e9e4a8ebe6ea732fbc4204b, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -2207,7 +2207,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: bf3a36b1fbb14d2688ee1d0b310fb1bf, type: 3}
+  m_Sprite: {fileID: 21300000, guid: b3a1343c872344d69adce6437b1ffdc6, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -2443,7 +2443,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6019984435304085986213bd441c3f0b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 716b6fa2817042cab9dec0c79ac30f97, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -2782,7 +2782,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b457bf3b883a43b181b5a8ecdf25646c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0b67c8c38e8c469787778296b31c16d7, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -2915,7 +2915,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 72a801274eec01849a8a79e137bd042a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de1f2166991d4897b88e99a870d5ebfe, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -3120,7 +3120,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 79652529c9224674b9f33a4ab5053265, type: 3}
+  m_Sprite: {fileID: 21300000, guid: a3d98bfc4b7a473db187510c867ca9c9, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -3459,7 +3459,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7c27816de26540cfb2e5d5f731d7f69c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f405d82d2bca4fa5a8e23720ee3acf87, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -3592,7 +3592,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 72a801274eec01849a8a79e137bd042a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de1f2166991d4897b88e99a870d5ebfe, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -4055,7 +4055,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 72a801274eec01849a8a79e137bd042a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de1f2166991d4897b88e99a870d5ebfe, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -4130,7 +4130,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6596596fe7fa40649562a47d3e15e9b5, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2ab5cdfb07a74707a74ec77293f1aa27, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -4337,7 +4337,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5c414db9776f4a14942318bf15fa28e6, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 3e45068f928b4e40a94cdf377981c390, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -4486,7 +4486,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1745916755}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 369c521577ea43a98853e0b9b8d3d5b4, type: 3}
+  m_Script: {fileID: 11500000, guid: d952f05d3429412186da42446c1855ad, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   bertiedelarosa: PaintingList
@@ -5000,7 +5000,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 72a801274eec01849a8a79e137bd042a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: de1f2166991d4897b88e99a870d5ebfe, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -5247,7 +5247,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b78014531b93cf148b0d746c3e62353d, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bf310e7d904e447a94da378172051036, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5274,7 +5274,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2056837890}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b2209aefad074445b00e76cd8c2b6f5f, type: 3}
+  m_Script: {fileID: 11500000, guid: d7a8c96f638f4e1db2a033e562b7b65a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   cameraObj: {fileID: 916120782}
@@ -5282,14 +5282,14 @@ MonoBehaviour:
     lesahunt: {fileID: 2105012643}
     color: {r: 0, g: 0, b: 0, a: 0}
     image: {fileID: 1250579213}
-    callieott: {fileID: 21300000, guid: 79652529c9224674b9f33a4ab5053265, type: 3}
-    nolaramos: {fileID: 21300000, guid: 8a652d1a0bd74daa8f53480f8022aeab, type: 3}
+    callieott: {fileID: 21300000, guid: a3d98bfc4b7a473db187510c867ca9c9, type: 3}
+    nolaramos: {fileID: 21300000, guid: e5f46fd684a14d348da211cd70158116, type: 3}
   paintingMenu:
     lesahunt: {fileID: 2044440970}
     color: {r: 0, g: 0, b: 0, a: 0}
     image: {fileID: 1000953964}
-    callieott: {fileID: 21300000, guid: 6019984435304085986213bd441c3f0b, type: 3}
-    nolaramos: {fileID: 21300000, guid: 16fef890a6464ec580bde304bc59b7af, type: 3}
+    callieott: {fileID: 21300000, guid: 716b6fa2817042cab9dec0c79ac30f97, type: 3}
+    nolaramos: {fileID: 21300000, guid: 4edcd98f19474bc987ec12c43ee4b30f, type: 3}
 --- !u!1 &2098757230
 GameObject:
   m_ObjectHideFlags: 0
@@ -5318,7 +5318,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 245768c79add43378e6165b29b70fb0e, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 18cefc7c116947ae9580bf5a7e998cac, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.1
   m_Pitch: 1
@@ -5413,11 +5413,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 2098757230}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a66eaa9a1c694d04934d67917113c911, type: 3}
+  m_Script: {fileID: 11500000, guid: e1ae7b19963948069c4d3fdea888ee49, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  clickSound: {fileID: 8300000, guid: b21098773a49406883b9614676178594, type: 3}
-  cameraSound: {fileID: 8300000, guid: cea07103df474bdba53a4e31eb0b0458, type: 3}
+  clickSound: {fileID: 8300000, guid: 47e089d67159438fa5284bcac766e8ba, type: 3}
+  cameraSound: {fileID: 8300000, guid: 952338171da34771a9578152910634dc, type: 3}
 --- !u!4 &2098757235
 Transform:
   m_ObjectHideFlags: 0
