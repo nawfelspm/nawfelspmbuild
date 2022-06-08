@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
-  <string name="gcm_defaultSenderId" translatable="false">271891709600</string>
-  <string name="google_storage_bucket" translatable="false">traktor-87359.appspot.com</string>
-  <string name="project_id" translatable="false">traktor-87359</string>
-  <string name="google_api_key" translatable="false">AIzaSyDnxQM_pWjvhkxg7bgGr76YX9Sn-2xw7fE</string>
-  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDnxQM_pWjvhkxg7bgGr76YX9Sn-2xw7fE</string>
-  <string name="google_app_id" translatable="false">1:271891709600:android:aadae4eb32a0ce2e3a53c5</string>
-  <string name="default_web_client_id" translatable="false">271891709600-l2r3r5on829ocifsje85pkq6qv90dgsi.apps.googleusercontent.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">172767507017</string>
+  <string name="google_storage_bucket" translatable="false">peppa-15d90.appspot.com</string>
+  <string name="project_id" translatable="false">peppa-15d90</string>
+  <string name="google_api_key" translatable="false">AIzaSyBPY4Ihdj5PV8l0sGL3isezCiVwT5979Zc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBPY4Ihdj5PV8l0sGL3isezCiVwT5979Zc</string>
+  <string name="google_app_id" translatable="false">1:172767507017:android:62398b9a0348b444908598</string>
+  <string name="default_web_client_id" translatable="false">172767507017-i412dp7uinr1lttsct00kbdh51lijtm0.apps.googleusercontent.com</string>
 </resources>
