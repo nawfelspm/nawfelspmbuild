@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a64751fc59f2458e997d0507b895bc67, type: 3}
+  m_Script: {fileID: 11500000, guid: 4a831bf45928453bb42ee50ccad0bc1d, type: 3}
   m_Name: AppLovinSettings
   m_EditorClassIdentifier: 
   qualityServiceEnabled: 1
